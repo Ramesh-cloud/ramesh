@@ -3,3 +3,4 @@ $PSVersionTable
 
 PSDiagnostics\Get-LogProperties
 get-hostname
+Get-Acl
